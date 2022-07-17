@@ -1,0 +1,276 @@
+//FONTS
+.font-size-1_5r {
+  font-size: 1.5rem;
+}
+
+.font-size-0_9r {
+  font-size: 0.9rem;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.font-weight-500 {
+  font-weight: 500;
+}
+
+//MARGIN
+.m-0-auto {
+  margin: 0 auto;
+}
+
+.m-20-auto {
+  margin: 20px auto;
+}
+
+.mr-50 {
+  margin-right: 50px;
+}
+
+.ml-50 {
+  margin-left: 50px;
+}
+
+.m-2-1r {
+  margin: 2rem 1rem !important;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.mx-20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+//MARGIN END
+
+//PADDING
+
+.p-0-20 {
+  padding: 0 20px;
+}
+
+.p-0-50 {
+  padding: 0 50px;
+}
+
+.p-15-0 {
+  padding: 15px 0;
+}
+
+.p-5-0 {
+  padding: 5px 0;
+}
+
+.pr-20 {
+  padding-right: 20px;
+}
+
+.p-2-1r {
+  padding: 2rem 1rem !important;
+}
+
+.p-5-0 {
+  padding: 5px 0;
+}
+
+.p-1r {
+  padding: 1rem;
+}
+
+.pb-20 {
+  padding-bottom: 20px;
+}
+
+//PADDING END
+
+//POSITION
+
+.position-relative {
+  position: relative;
+}
+
+.position-fixed {
+  position: fixed;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.bottom-10 {
+  bottom: 10px;
+}
+
+//POSITION END
+
+//WIDTH-HEIGHT
+.w-100 {
+  width: 100%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.h-70-vh {
+  height: 70vh;
+}
+
+.h-10-vh {
+  height: 10vh;
+}
+
+.min-h-230 {
+  min-height: 230px;
+}
+
+.min-h-500 {
+  min-height: 500px;
+}
+
+//WIDTH-HEIGHT END
+
+//BORDERS
+.border-bottom-2 {
+  border: 2px solid #cfcfcf;
+}
+
+.border-bottom-1 {
+  border-bottom: 1px solid #f1f3f5;
+}
+
+.rad-100 {
+  border-radius: 100px;
+}
+
+.rad-12 {
+  border-radius: 12px;
+}
+
+.border-1-red {
+  border: 1px solid $red;
+}
+
+//BORDERS END
+
+//BG-COLORS
+
+.bg-softGray {
+  background-color: $softGray;
+}
+
+.bg-white {
+  background-color: $white;
+}
+
+.bg-gray {
+  background-color: $gray;
+}
+
+//BG-COLORS END
+
+//COLORS
+.text-black {
+  color: $black;
+}
+
+.text-softBlack {
+  color: $softBlack !important;
+}
+
+.text-red {
+  color: $red;
+}
+
+.text-primaryGray {
+  color: $primaryGray;
+}
+
+.text-green {
+  color: $green;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+//COLORS END
+
+//FLEXBOX
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-end {
+  justify-content: end;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+//FLEXBOX END
+
+//NAV
+
+.nav-item {
+  list-style: none;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+//NAV END
+
+//OVERFLOW
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.overflow-auto {
+  overflow: auto;
+}
+//OVERFLOW END
+
+//İMAGE
+
+.img {
+  width: 100px;
+}
+
+//İMAGE END

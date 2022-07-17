@@ -1,0 +1,30 @@
+{
+    "Liste": "List",
+    "Hesabım": "Account",
+    "E-posta": "Email",
+    "Parola": "Password",
+    "Geçerli Yerel": "Current Locale",
+    "Çıkış Yap": "Log Out",
+    "İsim Soyisim": "Fullname",
+    "Lokal Seçiniz": "Choose Local",
+    "Türkçe": "Turkish",
+    "İngilizce": "English",
+    "Fransızca": "French",
+    "Diğer": "Other",
+    "Giriş Yap": "Sign Up",
+    "Sepete Ekle": "Add To Cart",
+    "Sepetten Çıkar": "Remove From Cart",
+    "Ürünlerin Toplamı": "Total Products",
+    "Toplam": "Total",
+    "Vergiler": "Taxes",
+    "Kargo": "Cargo",
+    "Genel Toplam": "The Overall Total",
+    "Geçerli bir email girin": "Enter a valid email",
+    "Çok kısa!": "Too small!",
+    "Çok uzun!": "Too long!",
+    "Zorunlu alan": "Required",
+    "Parolanız en az 5 karakter olmalıdır": "Your password must be at least 5 characters"
+
+
+
+}
